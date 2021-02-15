@@ -10,7 +10,6 @@ QT GUI support
 To the extent possible under law, the author(s) have dedicated all copyright and related and
 neighboring rights to this software to the public domain worldwide. This software is
 distributed without any warranty.
-CC0 Public Domain Dedication <http://creativecommons.org/publicdomain/zero/1.0/>.
 
 Peter Shirley originally implemented
 • Basic ray casting
@@ -21,3 +20,8 @@ Peter Shirley originally implemented
 • Reflection
 • Refraction
 • Depth of Field
+
+Added Features
+• Triangle
+• Cube
+• Spot Shadows
