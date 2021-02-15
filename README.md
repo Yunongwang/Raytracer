@@ -11,17 +11,12 @@ To the extent possible under law, the author(s) have dedicated all copyright and
 neighboring rights to this software to the public domain worldwide. This software is
 distributed without any warranty.
 
-Peter Shirley originally implemented
-• Basic ray casting
-• Positionable camera
-• Sphere intersections
-• Antialiasing
-• Lambertian Surfaces
-• Reflection
-• Refraction
-• Depth of Field
-
-Added Features
-• Triangle
-• Cube
-• Spot Shadows
+Peter Shirley originally implemented  
+• Basic ray casting  
+• Positionable camera  
+• Sphere intersections  
+• Antialiasing  
+• Lambertian Surfaces  
+• Reflection  
+• Refraction  
+• Depth of Field  
